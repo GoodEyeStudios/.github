@@ -14,4 +14,4 @@ Apps we miss, rebuilt. Apps that suck, fixed. All built with AI, and you get to 
 ## Game research
 
 What's really going on inside old games: hidden ratings, formulas and bugs, with the data behind each video.
-**Coming soon.**
+**[game-research](https://github.com/GoodEyeStudios/game-research)**: Tecmo NBA Basketball (NES) is up first.
